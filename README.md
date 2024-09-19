@@ -1,1 +1,1 @@
-# Dit is een voorbeeld vaniut visual studio code 
+# Dit is een voorbeeld vanuit visual studio code 
